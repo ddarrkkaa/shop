@@ -1,5 +1,7 @@
 import React from "react";
 
-export default function mainSection() {
+const MainSection = () => {
   return <div className="pressentation"></div>;
-}
+};
+
+export default MainSection;
